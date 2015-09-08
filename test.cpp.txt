@@ -1,0 +1,2 @@
+#nclude<iostream.h>
+using namespace std;
